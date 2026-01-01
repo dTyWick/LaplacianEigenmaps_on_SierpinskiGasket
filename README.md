@@ -1,8 +1,11 @@
 # LaplacianEigenmaps_on_SG
     
 <p align="center">
-  <img src="images/HanoiFlower_n8_p5.png" width="45%" />
-  <img src="images/R8_SG_Analysis.png" width="45%" /> 
+  <img src="images/HanoiFlower_n8_p5.png" width="60%" />
+</p>
+
+<p align="center">
+  <img src="images/R8_SG_Analysis.png" width="100%" /> 
 </p>
 
 Through numerical investigations of the resistance metric on Poisson-weighted graph approximations of the Sierpinski Gasket (SG), we provide evidence of the extension of the Laplacian Eigenmaps technique to non-smooth spaces, using SG as a foundational example.
